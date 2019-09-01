@@ -1,0 +1,41 @@
+footer {
+  width: 100%;
+  position: absolute;
+  bottom: 0px;
+  padding: 5rem 0;
+  background-color: #000000;
+}
+
+
+
+/*botao Entrar*/
+.btn-primary {
+  background-color:#64a19d; 
+  border-color:#64a19d ;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #000000;
+    border-color: #000000;
+}
+
+/*menu texto tela login*/
+#mainNav .navbar-brand {
+    color: #161616;
+    font-weight: 700;
+    padding: .9rem 0;
+}
+
+.fixed-top {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+
+#mainNav {
+    min-height: 56px;
+    background-color: #fff;
+}
